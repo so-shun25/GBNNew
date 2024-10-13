@@ -13,6 +13,8 @@
 		A1BE27442C955F9800E413CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1BE27432C955F9800E413CB /* Preview Assets.xcassets */; };
 		A1BE274B2C955FC000E413CB /* MyFeedbackListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BE274A2C955FBF00E413CB /* MyFeedbackListView.swift */; };
 		A1BE274D2C95653700E413CB /* SwiftDataTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BE274C2C95653700E413CB /* SwiftDataTest.swift */; };
+		A1BE274F2CBB9A9400E413CB /* Group List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BE274E2CBB9A9400E413CB /* Group List.swift */; };
+		A1BE27512CBBA14300E413CB /* NewGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BE27502CBBA14300E413CB /* NewGroup.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		A1BE27432C955F9800E413CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A1BE274A2C955FBF00E413CB /* MyFeedbackListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFeedbackListView.swift; sourceTree = "<group>"; };
 		A1BE274C2C95653700E413CB /* SwiftDataTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataTest.swift; sourceTree = "<group>"; };
+		A1BE274E2CBB9A9400E413CB /* Group List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Group List.swift"; sourceTree = "<group>"; };
+		A1BE27502CBBA14300E413CB /* NewGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGroup.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				A1BE273C2C955F9600E413CB /* GBNNewApp.swift */,
 				A1BE273E2C955F9600E413CB /* FeedbackView.swift */,
 				A1BE274A2C955FBF00E413CB /* MyFeedbackListView.swift */,
+				A1BE274E2CBB9A9400E413CB /* Group List.swift */,
+				A1BE27502CBBA14300E413CB /* NewGroup.swift */,
 				A1BE274C2C95653700E413CB /* SwiftDataTest.swift */,
 				A1BE27402C955F9800E413CB /* Assets.xcassets */,
 				A1BE27422C955F9800E413CB /* Preview Content */,
@@ -143,8 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1BE27512CBBA14300E413CB /* NewGroup.swift in Sources */,
 				A1BE274B2C955FC000E413CB /* MyFeedbackListView.swift in Sources */,
 				A1BE274D2C95653700E413CB /* SwiftDataTest.swift in Sources */,
+				A1BE274F2CBB9A9400E413CB /* Group List.swift in Sources */,
 				A1BE273F2C955F9600E413CB /* FeedbackView.swift in Sources */,
 				A1BE273D2C955F9600E413CB /* GBNNewApp.swift in Sources */,
 			);
